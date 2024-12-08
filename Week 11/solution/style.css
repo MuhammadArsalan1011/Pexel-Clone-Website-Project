@@ -1,0 +1,164 @@
+body{
+    width: 1440px;
+    margin: 0 auto;
+    border-color: black;
+    border: 5px solid black;
+}
+
+.top-bar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: red;    
+    height: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: white;
+}
+
+p{
+    margin: 0;
+}
+
+.column{
+  display: flex;  
+  align-items: center;
+  justify-content: center;  
+  padding: 14px 16px;  
+  gap: 50px;    
+}
+
+.option{
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.subscription{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    text-decoration: underline;
+    text-align: center;
+    font-weight: 600;
+    padding: 5px;
+}
+
+.picture{
+    padding: 85px 0;
+    background-image: linear-gradient(to right, transparent, #e81c1c), url(../solution/img/pexels-juan-pablo-serrano-arenas-813787.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center right;
+}
+
+.picture h1 {
+    display: inline;
+    position: relative;
+    left: calc(90% - 85px);
+    color: white;
+    font-weight: lighter;
+    font-size: 50px;
+}
+
+.box{
+    background-color: #e81c1c;
+    height: 500px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.red-box{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    padding-left: 20px;
+}
+
+.box-img{
+    background-image: url(.//img/pexels-juan-pablo-serrano-arenas-813787.jpg);
+    padding: 250px;
+    width: 200px;   
+    background-size: cover;
+}
+
+.footer{
+    display: flex;    
+    align-items: center;
+    background-color: red;
+    justify-content: space-between;
+}
+
+.contact{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+.policy{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    position: relative;
+    right: 300px;
+    padding-top: 10px;
+}
+
+a{
+    color: white;
+    font-size: 20px;
+    padding-top: 2px;
+}
+
+.hours{
+    display: flex;
+    flex-direction: column;    
+    padding: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    text-align: right;
+}
+
+.grid-box {
+    display: grid;
+    grid-template-columns: 400px 400px;  
+    grid-template-rows: 380px 380px ;
+    row-gap: 80px;
+    column-gap: 200px;
+    padding-left: 60px; 
+    margin: 40px;  
+    padding-left: 200px; 
+}
+
+.grid-item{
+    width: 400px;
+    height: 380px;
+    border: 5px solid red;    
+}
+
+.grid-item h3{
+    display: inline;
+    position: relative;
+    left: calc(42% - 85px);
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+    top: 45%;
+}
+
+.one, .two, .three, .four{
+    background-image: url(../solution/img/pexels-juan-pablo-serrano-arenas-813787.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center right; 
+    filter: opacity(0.5) drop-shadow(0 0 brown);  
+}

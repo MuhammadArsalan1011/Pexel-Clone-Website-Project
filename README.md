@@ -61,7 +61,8 @@ This project is intended to showcase modern web development techniques, includin
 
 This project was created as part of a practice exercise to develop a visually stunning and functional web interface. It emphasizes:
 - **Clean code organization**: HTML and CSS structured for readability and reusability.
-- **User experience design**: Focused on creating an intuitive and engaging interface.
+- **User experience design**: Focused on creating an intuitive and engaging experience.
+- **User interface design**: Focused on creaton of exact clone interface of Pexels website.
 - **Responsive web development**: Ensuring usability on a variety of devices and screen resolutions.
 
 ---

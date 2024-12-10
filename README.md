@@ -5,12 +5,12 @@ This project is a front-end implementation of a **Pexels-inspired** stock video 
 ---
 
 ## 📋 Table of Contents
-1. [📖 Project Overview](#project-overview)
-2. [✨ Features](#features)
-3. [🛠️ Technologies Used](#️technologies-used)
-4. [📌 Project Context](#project-context)
-5. [📂 Media and Resources](#media-and-resources)
-6. [📱 Responsive Design](#responsive-design)
+1. [📖 Project Overview](-#project-overview)
+2. [✨ Features](-#features)
+3. [🛠️ Technologies Used](-#️technologies-used)
+4. [📌 Project Context](-#project-context)
+5. [📂 Media and Resources](-#media-and-resources)
+6. [📱 Responsive Design](-#responsive-design)
 
 ---
 
